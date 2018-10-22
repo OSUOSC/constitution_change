@@ -1,7 +1,7 @@
 #### Constitution for the Open Source Club at the Ohio State University
 #### Distributed under a creative commons 0 (CC-0)
 
-# Opensource Club Constitution
+# Open Source Club Constitution
 ### Authors:
 - Isaac Jones
 - Martin Jansche
@@ -99,7 +99,7 @@ No Officer will necessarily have any control over software projects, since by th
 
 ## Section 3 - Officer Removal
 
-Leadership is needed in any club and so Officers are required to be present at as many meetings as possible, and must make every effort to do so.  An Officer may be subject to removal if they neglect to attend a supermajority of meetings in a semester, or consecutive meetings in an amount which is equivalent to half of the scheduled meetings in a semester.
+Leadership is needed in any club and so Officers are required to be present at as many meetings as possible, and must make every effort to do so.  An Officer may be subject to removal if they neglect to attend over six meetings during the course of his or her officer term, or three consecutive meetings during a single semester of his or her officer term.
 
 However, it is also realized that extenuating circumstances are possible.  In order to eliminate doubts surrounding an Officers excuse for missing a meeting, any Officer who plans to skip a meeting must notify at least one of the other Officers that they will not be in attendance at least 24 hours in advance.
 
