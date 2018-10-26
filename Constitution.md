@@ -91,23 +91,30 @@ There are three Officer positions required by the Ohio State University: The Pre
 - A voting Member in good standing
 - Meeting all of the requirements of an Officer per The Ohio State University's guidelines
 - Subject to being listed on any given 'official' document of The Open Source Club as their respective position and status
-- Responsible for the public relations of The Open Source Club
-- Responsible for the hardware and all assets of The Open Source Club
-- The only people who can authorize funds to be spent
+
 
 No Officer will necessarily have any control over software projects, since by the definition of open source software, code forks can happen when they need to, and no one therefore has ultimate power over a software project.
 
+The role of the Officers are as follows: 
+  - The President's primary responsibility is to lead meetings and work to promote the purpose of the club.
+  - The Vice President's primary responsibility is to carry out the duties of the President when the President is unable to do so.
+  - The Treasurer's primary responsibility is to maintain the club bank account, and secure funding for the club.
+  
+  In addition to the specific Officer duties listed above, all Officers are responsible for:
+  - Public relations of The Open Source Club
+  - Hardware and all assets of The Open Source Club
+
 ## Section 3 - Officer Removal
 
-Leadership is needed in any club and so Officers are required to be present at as many meetings as possible, and must make every effort to do so.  An Officer may be subject to removal if they neglect to attend a supermajority of meetings in a semester, or consecutive meetings in an amount which is equivalent to half of the scheduled meetings in a semester.
+Leadership is needed in any club and so Officers are required to be present at as many meetings as possible, and must make every effort to do so.  An Officer may be subject to removal if they neglect to attend six meetings in a semester, or three consecutive meetings in a semester.
 
-However, it is also realized that extenuating circumstances are possible.  In order to eliminate doubts surrounding an Officers excuse for missing a meeting, any Officer who plans to skip a meeting must notify at least one of the other Officers that they will not be in attendance at least 24 hours in advance.
+However, it is also realized that extenuating circumstances are possible.  In order to eliminate doubts surrounding an Officers excuse for missing a meeting, any Officer who plans to miss a meeting must notify at least one of the other Officers that they will not be in attendance at least 24 hours in advance.
 
-If an Officer is in violation of the aforementioned attendance rules, then voting Members must take a supermajority vote as to whether or not said Officer will be allowed to keep their position. For all other cases of misconduct, the Officer will face the same removal process as any other Member.
+If an Officer is in violation of the aforementioned attendance rules, then voting Members must take a supermajority vote at the next club meeting as to whether or not said Officer will be allowed to keep their position. For all other cases of misconduct, the Officer will face the same removal process as any other Member.
 
 ## Section 4 - Replacing Officers
 
-If an Officer is either removed or resigns during their term, the remaining Officers shall replace the missing Officer according in a manner similar to the initial Officer electing process.
+If an Officer is either removed or resigns during their term, the remaining Officers shall replace the missing officer given that all rules set forth by The Ohio State University are followed.
 
 ## Section 5 - Advisors
 
