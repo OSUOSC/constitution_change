@@ -114,7 +114,7 @@ If an Officer is in violation of the aforementioned attendance rules, then votin
 
 ## Section 4 - Replacing Officers
 
-If an officer is either removed or resigns during their term, the remaining officers shall replace the missing officer given that all rules set forth by The Ohio State University are followed.
+If an Officer is either removed or resigns during their term, the remaining Officers shall replace the missing officer given that all rules set forth by The Ohio State University are followed.
 
 ## Section 5 - Advisors
 
